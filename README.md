@@ -1,6 +1,6 @@
 # Space Destroyer
 
-[Space Destroyer Game - Google Slides](https://www.google.com/search?q=%23)
+[Space Destroyer Game - Google Slides](https://docs.google.com/presentation/d/1IH4_T6WE_UoEuoKrWXi-Y2QASrMYliuBAjHxkgwGBeA/edit?usp=sharing)
 
 A hardware-level arcade space shooter written in Verilog HDL, designed for execution on Intel/Altera FPGA development boards like the DE1-SoC. The project directly drives a VGA monitor for rendering and uses onboard pushbuttons and 7-segment displays for player input and score tracking.
 
